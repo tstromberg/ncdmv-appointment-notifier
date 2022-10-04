@@ -37,7 +37,7 @@ It's that easy! There are a number of flags for tuning the behavior of this prog
 
 On macOS, Linux, and Windows, this program will generate a desktop notification:
 
-[ncdmv-appointment-notifier notification screenshot on macOS](screenshot.png)
+<img src="https://raw.githubusercontent.com/tstromberg/ncdmv-appointment-notifier/master/site/screenshot.png" alt="ncdmv-appointment-notifier notification screenshot on macOS">
 
 If your computer has the "say" command installed (macOS), ncdmv-appointment-notifier will also speak the contents of the  notification out loud. You can use `--run-command` to set an alternative tool, such as `espeak`.
 
