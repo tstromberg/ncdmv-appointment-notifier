@@ -15,6 +15,10 @@ maintainable and under the radar, this script requires you to program which site
 
 ## Installation
 
+```shell
+go install github.com/tstromberg/ncdmv-appointment-notifier@latest
+```
+
 ## Usage
 
 ```shell
