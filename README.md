@@ -5,7 +5,7 @@ Get notified when an appointment opens up at one of your favorite NC DMV locatio
 ## Note
 
 The new NC DMV system is designed to circumvent automated queries. To stay
-maintainable and under the radar, this script requires you to program which sites you are interested in.
+maintainable and under the radar, this script requires you to define exactly which sites you are interested in.
 
 ## Requirements
 
