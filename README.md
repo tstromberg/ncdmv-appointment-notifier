@@ -1,6 +1,6 @@
 # ncdmv-appointment-notifier
 
-Receive a notification when an appointment is available at your favorite NC DMV locations.
+Get notified when an appointment opens up at one of your favorite NC DMV locations.
 
 ## Note
 
@@ -37,7 +37,7 @@ It's that easy! There are a number of flags for tuning the behavior of this prog
 
 On macOS, Linux, and Windows, this program will generate a desktop notification:
 
-<img src="https://raw.githubusercontent.com/tstromberg/ncdmv-appointment-notifier/master/site/screenshot.png" alt="ncdmv-appointment-notifier notification screenshot on macOS">
+<img src="https://raw.githubusercontent.com/tstromberg/ncdmv-appointment-notifier/main/site/screenshot.png" alt="ncdmv-appointment-notifier notification screenshot on macOS">
 
 If your computer has the "say" command installed (macOS), ncdmv-appointment-notifier will also speak the contents of the  notification out loud. You can use `--run-command` to set an alternative tool, such as `espeak`.
 
