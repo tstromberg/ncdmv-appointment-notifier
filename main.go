@@ -1,4 +1,4 @@
-// ncdmv-appointment-finder notifies you when there is an available appointment
+// ncdmv-appointment-notifier notifies you when there is an available appointment
 package main
 
 import (

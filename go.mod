@@ -1,4 +1,4 @@
-module github.com/tstromberg/ncdmv-appointment-finder
+module github.com/tstromberg/ncdmv-appointment-notifier
 
 go 1.18
 
